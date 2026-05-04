@@ -1,0 +1,218 @@
+[
+  {
+    "word": "hello",
+    "translations": ["привіт"],
+    "synonyms": ["hi", "greetings", "hey"],
+    "uaSynonyms": ["вітаю", "здоров", "добрий день"],
+    "examples": [
+      "Hello, how are you? — Привіт, як ваші справи?",
+      "She smiled and said hello. — Вона посміхнулася і сказала привіт."]
+  },
+  {
+    "word": "development",
+    "translations": ["розробка"],
+    "synonyms": ["creation", "evolution", "growth"],
+    "uaSynonyms": ["розвиток", "створення", "прогрес", "формування"],
+    "examples": [
+      "Software development takes a lot of time. — Розробка програмного забезпечення займає багато часу.",
+      "The child's development is normal. — Розвиток дитини в нормі."]
+  },
+  {
+    "word": "car",
+    "translations": ["автомобіль"],
+    "synonyms": ["vehicle", "automobile", "auto"],
+    "uaSynonyms": ["машина", "автівка", "транспортний засіб"],
+    "examples": [
+      "He bought a new electric car. — Він купив новий електромобіль.",
+      "The car is parked outside. — Машина припаркована знадвору."]
+  },
+  {
+    "word": "fly",
+    "translations": ["літати"],
+    "synonyms": ["soar", "hover", "flutter"],
+    "uaSynonyms": ["парити", "кружляти", "порхати"],
+    "examples": [
+      "Birds can fly very high. — Птахи можуть літати дуже високо.",
+      "Time flies when you're having fun. — Час летить, коли тобі весело."]
+  },
+  {
+    "word": "freedom",
+    "translations": ["свобода"],
+    "synonyms": ["liberty", "independence", "autonomy"],
+    "uaSynonyms": ["воля", "незалежність", "самостійність"],
+    "examples": [
+      "Freedom of speech is a basic human right. — Свобода слова — це базове право людини.",
+      "They fought hard for their freedom. — Вони важко боролися за свою волю."]
+  },
+  {
+    "word": "software",
+    "translations": ["програмне забезпечення"],
+    "synonyms": ["program", "app", "application"],
+    "uaSynonyms": ["програма", "додаток", "застосунок"],
+    "examples": [
+      "You need to install the latest software update. — Вам потрібно встановити останнє оновлення програмного забезпечення.",
+      "He works as a software engineer. — Він працює інженером програмного забезпечення."]
+  },
+  {
+    "word": "database",
+    "translations": ["база даних"],
+    "synonyms": ["storage", "repository", "databank"],
+    "uaSynonyms": ["сховище", "банк даних", "репозиторій"],
+    "examples": [
+      "The database stores all user information securely. — База даних безпечно зберігає всю інформацію про користувачів.",
+      "We need to connect the Java application to an H2 database. — Нам потрібно підключити Java-додаток до бази даних H2."]
+  },
+  {
+    "word": "fast",
+    "translations": ["швидкий"],
+    "synonyms": ["quick", "rapid", "swift"],
+    "uaSynonyms": ["прудкий", "стрімкий", "блискавичний", "хуткий"],
+    "examples": [
+      "He runs very fast. — Він бігає дуже швидко.",
+      "We need a fast response from the server. — Нам потрібна швидка відповідь від сервера."]
+  },
+  {
+    "word": "learn",
+    "translations": ["вивчати"],
+    "synonyms": ["study", "discover", "master"],
+    "uaSynonyms": ["вчити", "опановувати", "дізнаватися"],
+    "examples": [
+      "I want to learn Java to build cool apps. — Я хочу вивчити Java, щоб створювати круті додатки.",
+      "She learns foreign languages quickly. — Вона швидко вивчає іноземні мови."]
+  },
+  {
+    "word": "algorithm",
+    "translations": ["алгоритм"],
+    "synonyms": ["procedure", "method", "logic"],
+    "uaSynonyms": ["процедура", "метод", "послідовність"],
+    "examples": [
+      "The ant colony algorithm is used for optimization. — Алгоритм мурашиної колонії використовується для оптимізації.",
+      "We need a faster algorithm. — Нам потрібен швидший алгоритм."]
+  },
+  {
+    "word": "equation",
+    "translations": ["рівняння"],
+    "synonyms": ["formula", "expression"],
+    "uaSynonyms": ["формула", "вираз", "рівність"],
+    "examples": [
+      "Solving this equation is difficult. — Розв'язати це рівняння складно.",
+      "X and Y are variables in the equation. — X та Y є змінними у рівнянні."]
+  },
+  {
+    "word": "probability",
+    "translations": ["ймовірність"],
+    "synonyms": ["chance", "likelihood", "odds"],
+    "uaSynonyms": ["вірогідність", "шанс", "можливість"],
+    "examples": [
+      "The probability of winning is very low. — Ймовірність виграшу дуже низька.",
+      "We are studying probability theory. — Ми вивчаємо теорію ймовірностей."]
+  },
+  {
+    "word": "variable",
+    "translations": ["змінна"],
+    "synonyms": ["factor", "parameter", "element"],
+    "uaSynonyms": ["параметр", "величина", "фактор"],
+    "examples": [
+      "Assign a new value to this variable. — Присвойте нове значення цій змінній.",
+      "The temperature is a continuous variable in this experiment. — Температура є неперервною змінною у цьому експерименті."]
+  },
+  {
+    "word": "university",
+    "translations": ["університет"],
+    "synonyms": ["college", "institute", "academy"],
+    "uaSynonyms": ["виш", "інститут", "академія"],
+    "examples": [
+      "She is a student at the national university. — Вона студентка національного університету.",
+      "Lviv Polytechnic is a famous university in Ukraine. — Львівська політехніка — відомий університет в Україні."]
+  },
+  {
+    "word": "assignment",
+    "translations": ["завдання"],
+    "synonyms": ["task", "project", "duty"],
+    "uaSynonyms": ["задача", "доручення", "проєкт"],
+    "examples": [
+      "I need to finish my laboratory assignment today. — Мені потрібно закінчити лабораторне завдання сьогодні.",
+      "The programming assignment was quite difficult. — Завдання з програмування було досить складним."]
+  },
+  {
+    "word": "knowledge",
+    "translations": ["знання"],
+    "synonyms": ["understanding", "wisdom", "awareness"],
+    "uaSynonyms": ["обізнаність", "ерудиція", "мудрість"],
+    "examples": [
+      "Knowledge is power. — Знання — це сила.",
+      "He has a lot of knowledge in this field. — Він має багато знань у цій галузі."]
+  },
+  {
+    "word": "lecture",
+    "translations": ["лекція"],
+    "synonyms": ["presentation", "speech", "lesson"],
+    "uaSynonyms": ["доповідь", "виступ", "заняття"],
+    "examples": [
+      "The lecture on data structures was very interesting. — Лекція про структури даних була дуже цікавою.",
+      "The professor will give a lecture tomorrow morning. — Професор прочитає лекцію завтра вранці."]
+  },
+  {
+    "word": "inheritance",
+    "translations": ["успадкування"],
+    "synonyms": ["heritage", "legacy", "derivation"],
+    "uaSynonyms": ["наслідування", "спадщина", "переймання"],
+    "examples": [
+      "Inheritance is a key concept in Java. — Успадкування є ключовим поняттям у Java.",
+      "The class uses inheritance to reuse code. — Клас використовує успадкування для повторного використання коду."]
+  },
+  {
+    "word": "array",
+    "translations": ["масив"],
+    "synonyms": ["collection", "matrix", "list"],
+    "uaSynonyms": ["сукупність", "список", "матриця"],
+    "examples": [
+      "Iterate over the elements of the array. — Пройдіться по елементах масиву.",
+      "The array size cannot be changed after creation. — Розмір масиву не може бути змінений після створення."]
+  },
+  {
+    "word": "interface",
+    "translations": ["інтерфейс"],
+    "synonyms": ["connection", "dashboard", "layout"],
+    "uaSynonyms": ["панель", "взаємодія", "оболонка"],
+    "examples": [
+      "The user interface of this app is beautiful. — Інтерфейс користувача цього додатка прекрасний.",
+      "A Java interface can contain abstract methods. — Інтерфейс у Java може містити абстрактні методи."]
+  },
+  {
+    "word": "bug",
+    "translations": ["помилка"],
+    "synonyms": ["error", "defect", "glitch"],
+    "uaSynonyms": ["вада", "збій", "дефект", "баг"],
+    "examples": [
+      "We need to fix this bug before the release. — Нам потрібно виправити цю помилку перед релізом.",
+      "I found a weird bug in the news application. — Я знайшов дивний баг у додатку новин."]
+  },
+  {
+    "word": "travel",
+    "translations": ["подорож"],
+    "synonyms": ["journey", "trip", "voyage"],
+    "uaSynonyms": ["мандрівка", "поїздка", "тур"],
+    "examples": [
+      "They plan to travel to Lisbon this summer. — Вони планують подорож до Лісабона цього літа.",
+      "Travel broadens the mind. — Подорожі розширюють світогляд."]
+  },
+  {
+    "word": "memory",
+    "translations": ["спогад"],
+    "synonyms": ["recollection", "remembrance", "mind"],
+    "uaSynonyms": ["згадка", "пам'ять", "згадування"],
+    "examples": [
+      "The best memories stay in the heart. — Найкращі спогади залишаються в серці.",
+      "My laptop needs more memory. — Моєму ноутбуку потрібно більше пам'яті."]
+  },
+  {
+    "word": "design",
+    "translations": ["дизайн"],
+    "synonyms": ["layout", "style", "blueprint"],
+    "uaSynonyms": ["оформлення", "стиль", "проєкт"],
+    "examples": [
+      "The industrial design of the cafe uses grey and blue colors. — Індустріальний дизайн кафе використовує сірі та сині кольори.",
+      "Good design makes the product easy to use. — Хороший дизайн робить продукт зручним у використанні."]
+  }
+]

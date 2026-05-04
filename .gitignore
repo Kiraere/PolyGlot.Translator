@@ -1,0 +1,8 @@
+# Файли Frontend, які не треба вантажити
+frontend/node_modules/
+frontend/.next/
+
+# Файли Java/Backend, які не треба вантажити
+target/
+.idea/
+*.iml
