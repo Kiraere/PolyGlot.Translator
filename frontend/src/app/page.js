@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import { Search, ArrowRightLeft, Loader2, Volume2, History, Database } from 'lucide-react';
 import './globals.css';
 
-const API_BASE = 'http://localhost:8080/api';
+const API_BASE = 'https://polyglottranslator.onrender.com/api';
 
 export default function DictionaryApp() {
   const [word, setWord] = useState('');
